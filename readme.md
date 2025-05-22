@@ -19,7 +19,7 @@
 ---
 
 ## 📸 Screenshots
-![PingWatch Screenshot](https://github.com/dev-ir/PingWatch/blob/master/screenshot.png?raw=true)
+<img src="https://github.com/dev-ir/PingWatch/blob/master/screenshot.png?raw=true" width="400"/>
 ---
 
 ## 🚀 Getting Started
